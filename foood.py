@@ -2,5 +2,5 @@ print("i love fooood")
 print("i dont love fooood")
 print("1 2 3 ")
 print("i dont love fooood")
-
-
+print("10 20 30 ")
+print("123")
