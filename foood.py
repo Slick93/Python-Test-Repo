@@ -1,3 +1,6 @@
 print("i love fooood")
 print("i dont love fooood")
-print("fooooooooooood")
+print("1 2 3 ")
+print("i dont love fooood")
+
+
